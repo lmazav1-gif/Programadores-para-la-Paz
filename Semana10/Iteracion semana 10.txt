@@ -1,0 +1,12 @@
+Las dos tareas que realizaría primero son:
+
+1. Permitir que los ciudadanos registren una incidencia.
+2. Enviar una alerta en Telegram cuando se registre un nuevo reporte.
+
+Estas tareas son las más importantes porque permiten recibir la información y avisar de inmediato al equipo encargado para darle seguimiento.
+
+Definición de "terminado":
+
+- La funcionalidad funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada y respaldada en Git.
